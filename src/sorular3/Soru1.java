@@ -1,4 +1,4 @@
-package Sorular3;
+package sorular3;
 
 public class Soru1 {
 
